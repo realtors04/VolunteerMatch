@@ -1,0 +1,128 @@
+{
+  "volunteers": [
+    {
+      "id": "1",
+      "name": "Rosemary Kamau",
+      "email": "rosemarykamau@gmail.com",
+      "skills": [
+        "Teaching",
+        "Community Development"
+      ],
+      "interests": [
+        "Education",
+        "Children"
+      ],
+      "location": "Nairobi",
+      "availability": "Weekends",
+      "completedProjects": 3,
+      "hoursVolunteered": 45
+    },
+    {
+      "id": "2",
+      "name": "Wanjiku Kamau",
+      "email": "wanjiku.k@example.com",
+      "skills": [
+        "Healthcare",
+        "Counseling"
+      ],
+      "interests": [
+        "Health",
+        "Elderly Care"
+      ],
+      "location": "Mombasa",
+      "availability": "Weekdays",
+      "completedProjects": 5,
+      "hoursVolunteered": 80
+    },
+    {
+      "id": "00a6",
+      "name": "Magee Spence",
+      "email": "xykadof@mailinator.com",
+      "skills": [
+        "Totam quod nostrum v"
+      ],
+      "interests": [
+        "Architecto qui sit d"
+      ],
+      "location": "Nairobi",
+      "availability": "Flexible",
+      "completedProjects": 0,
+      "hoursVolunteered": 0
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Nairobi Children's Education Program",
+      "description": "Volunteer to teach basic literacy and numeracy to children in Nairobi slums.",
+      "organization": "EduKenya Foundation",
+      "location": "Nairobi",
+      "skillsRequired": [
+        "Teaching",
+        "Patience"
+      ],
+      "category": "Education",
+      "duration": "3 months",
+      "volunteersNeeded": 10,
+      "applicants": []
+    },
+    {
+      "id": "2",
+      "title": "Mombasa Beach Cleanup",
+      "description": "Help clean and preserve Kenya's beautiful coastal beaches.",
+      "organization": "Green Coast Kenya",
+      "location": "Mombasa",
+      "skillsRequired": [
+        "Teamwork",
+        "Physical Labor"
+      ],
+      "category": "Environment",
+      "duration": "1 day",
+      "volunteersNeeded": 20,
+      "applicants": []
+    },
+    {
+      "id": "3",
+      "title": "Eldoret Medical Outreach",
+      "description": "Assist medical professionals in providing free healthcare in rural areas.",
+      "organization": "Health for All Kenya",
+      "location": "Eldoret",
+      "skillsRequired": [
+        "Healthcare",
+        "First Aid"
+      ],
+      "category": "Health",
+      "duration": "2 weeks",
+      "volunteersNeeded": 5,
+      "applicants": []
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "sender": "rosemarykamau@gmail.com",
+      "recipient": "edukenya@example.com",
+      "projectId": 1,
+      "content": "I'm interested in volunteering for your education program. What are the next steps?",
+      "timestamp": "2023-05-15T10:30:00Z"
+    },
+    {
+      "id": "3126",
+      "recipient": "dghth@gmail.com",
+      "projectId": "",
+      "content": "fegeht",
+      "sender": "currentuser@example.com",
+      "timestamp": "2025-04-30T17:09:43.606Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1",
+      "volunteerId": 1,
+      "projectId": 1,
+      "status": "Pending",
+      "applicationDate": "2023-05-15",
+      "message": "I have 2 years experience teaching children."
+    }
+  ]
+}
